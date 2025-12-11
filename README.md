@@ -30,14 +30,12 @@ Enjoy heart-touching tales of first love, breakup stories, emotional experiences
  
 <hr/>
  
-<h2>📲 Download the App</h2>
+
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.unbelievable.justfacts" target="_blank">
     ▶ <img src="google-play-badge (1).png" alt="Play Store"/>
 </a>
 </p>
- 
-<hr/>
  
 <h2>🛠 Tech Stack</h2>
 <ul>
